@@ -1,2 +1,5 @@
 # hello-world
-my hello-world repository
+
+Hi, Humans!
+
+Doll here, I like Python and C++.
